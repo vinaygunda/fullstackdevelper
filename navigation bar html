@@ -1,0 +1,18 @@
+<DOCTYPE html>
+    <html>
+        <head>
+            <title>registration form</title>
+            <head>
+                <body>
+                    <ul>
+                        <li><a href="home.html">Home</a></li><br>
+                        <li><a href="aboutus.html">about us</a><li><br>
+                            <li><a href="contactus.html">contact us</a></li><br>
+                            <li><a href="signup.html">signup</a></li><br>
+                        </ul>
+
+
+                    </body>
+
+
+                    </html>
